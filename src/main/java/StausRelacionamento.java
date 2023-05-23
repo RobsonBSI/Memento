@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class StausRelacionamento {
+public interface  StausRelacionamento {
+    String getNomeStatus();
 }
